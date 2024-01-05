@@ -1,0 +1,12 @@
+
+
+[
+  {
+    "operation": "remove",
+    "spec": {
+      "customer_id": "",
+      "phone_no": "",
+      "year": ""
+    }
+  }
+]
